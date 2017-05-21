@@ -1,0 +1,7 @@
+﻿  Send.cpp
+Send.cpp(17): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+sfml-window.lib(sfml-window-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+sfml-system.lib(sfml-system-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+sfml-network.lib(sfml-network-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+ws2_32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-graphics.lib(sfml-graphics-2.dll); second definition ignored
+  ChatLib.vcxproj -> E:\SourceHunters\SourceHunters\Taller5\x64\Release\ChatLib.lib

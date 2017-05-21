@@ -1,0 +1,16 @@
+﻿  Client.cpp
+E:\Users\Dani\Documents\ENTI\3er\Programacio de Jocs en xarxa\Taller5\ChatLib\Game.h(101): warning C4244: '=': conversión de 'float' a 'clock_t'; posible pérdida de datos
+E:\Users\Dani\Documents\ENTI\3er\Programacio de Jocs en xarxa\Taller5\ChatLib\Game.h(156): warning C4267: 'argumento': conversión de 'size_t' a 'uint32_t'; posible pérdida de datos
+E:\Users\Dani\Documents\ENTI\3er\Programacio de Jocs en xarxa\Taller5\ChatLib\Game.h(274): warning C4267: 'argumento': conversión de 'size_t' a 'uint32_t'; posible pérdida de datos
+Client.cpp(441): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+Client.cpp(573): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Client.cpp(580): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Client.cpp(224): warning C4101: 'key': variable local sin referencia
+  Generando código
+  1 of 724 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+ChatLib.lib(Send.obj) : warning LNK4099: no se encontró PDB 'ChatLib.pdb' con 'ChatLib.lib(Send.obj)' o en 'E:\Users\Dani\Documents\ENTI\3er\Programacio de Jocs en xarxa\Taller5\x64\Release\ChatLib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Client.vcxproj -> E:\Users\Dani\Documents\ENTI\3er\Programacio de Jocs en xarxa\Taller5\x64\Release\Client.exe
+  Client.vcxproj -> E:\Users\Dani\Documents\ENTI\3er\Programacio de Jocs en xarxa\Taller5\x64\Release\Client.pdb (Full PDB)

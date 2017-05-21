@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+e:\sourcehunters\sourcehunters\taller1\consoleapplication1\source.cpp(161): warning C4244: 'argument': conversion from 'std::size_t' to 'float', possible loss of data
+e:\sourcehunters\sourcehunters\taller1\consoleapplication1\source.cpp(19): warning C4101: 'mode': unreferenced local variable
+e:\sourcehunters\sourcehunters\taller1\consoleapplication1\source.cpp(21): warning C4101: 'received': unreferenced local variable
+  Send.cpp
+  Receive.cpp
+  Generating Code...
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
